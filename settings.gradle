@@ -1,0 +1,3 @@
+include ':zdlTool'
+include ':app'
+rootProject.name = "Zdl-Android-Tool"
